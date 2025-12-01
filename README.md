@@ -35,14 +35,6 @@ Cada carpeta incluye un `README.md` con descripción, un `REPORT_TEMPLATE.md` pa
 - Mantener hashes y metadatos, pero almacenar muestras en repositorios/almacenamiento seguro controlado.
 - Versionar informes y anexos sensibles fuera del código fuente.
 
-## Contribuir
-
-Si quieres añadir guías, plantillas o ejemplos, abre un pull request describiendo cambios y la carpeta afectada.
-
-## Próximos pasos sugeridos
-
-- Añadir PCAPs de ejemplo (sintéticos) en una carpeta `samples/` privada o con control de acceso.
-- Generar reglas Suricata/Zeek basadas en IOCs reales (genéricas para demos).
 
 ---
 
