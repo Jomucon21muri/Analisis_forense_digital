@@ -104,6 +104,3 @@ Las vías de ataque suelen aprovechar vulnerabilidades humanas, organizativas, t
   - Controlar y revisar privilegios.  
   - Exigir doble factor de autenticación (2FA) en servicios críticos.  
   - Establecer procedimientos de cambio periódico de contraseñas.
-
-
-Cómo usar esta carpeta: agregar ejemplos, IOCs, procedimientos de mitigación y plantillas de reporte.
