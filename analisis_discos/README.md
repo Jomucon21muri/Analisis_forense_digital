@@ -1,4 +1,4 @@
-# Análisis Forense de Discos
+# Análisis forense de discos
 
 Objetivo: Identificar y preservar evidencia en dispositivos de almacenamiento (HDD/SSD).
 
